@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lochawala" alt="lochawala" /> </p>
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Gen-AI**
 
-- 💬 Ask me about **react, vue and php**
+- 💬 Ask me about **React, Next.js, Node.js,Vue and php**
 
 - ⚡ Fun fact **Chai over coffee**
 
